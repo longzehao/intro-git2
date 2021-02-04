@@ -1,1 +1,2 @@
 1 create git sudy
+2 add some commands like "add", "commit"
